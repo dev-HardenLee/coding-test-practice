@@ -5,14 +5,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="87a4de62-995f-48f9-8a4a-80051963c272" name="변경" comment="">
-      <change afterPath="$PROJECT_DIR$/src/baekjoon/Main_1000.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/baekjoon/Main_1001.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/baekjoon/Main_1008.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/baekjoon/Main_1152.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/baekjoon/Main_1157.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/baekjoon/Main_1330.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/baekjoon/Main_2438.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/baekjoon/Main_2439.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/baekjoon/Main_2475.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/baekjoon/Main_2562.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/baekjoon/Main_2577.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/baekjoon/Main_2675.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -29,9 +29,9 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 8
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 8
+}</component>
   <component name="ProjectId" id="2f9vZRl1WWChjyxfQ7arnar7n2o" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
@@ -50,18 +50,29 @@
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "프로젝트",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0",
+    "settings.editor.selected.configurable": "project.propDebugger",
     "vue.rearranger.settings.migration": "true",
     "애플리케이션.Main.executor": "Run",
     "애플리케이션.Main_1008.executor": "Run",
     "애플리케이션.Main_1152.executor": "Run",
     "애플리케이션.Main_1157.executor": "Run",
+    "애플리케이션.Main_1330.executor": "Run",
+    "애플리케이션.Main_2438.executor": "Run",
+    "애플리케이션.Main_2439.executor": "Run",
+    "애플리케이션.Main_2475.executor": "Run",
+    "애플리케이션.Main_2562.executor": "Run",
+    "애플리케이션.Main_2577.executor": "Run",
+    "애플리케이션.Main_2675.executor": "Run",
     "애플리케이션.baekjoon_1001.executor": "Run",
     "애플리케이션.baekjoon_1008.executor": "Run"
   }
 }]]></component>
-  <component name="RunManager" selected="애플리케이션.Main_1330">
-    <configuration name="Main_1001" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="baekjoon.Main_1001" />
+  <component name="RunManager" selected="애플리케이션.Main_2675">
+    <configuration name="Main_2439" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="baekjoon.Main_2439" />
       <module name="coding-test" />
       <extension name="coverage">
         <pattern>
@@ -73,8 +84,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main_1008" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="baekjoon.Main_1008" />
+    <configuration name="Main_2475" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="baekjoon.Main_2475" />
       <module name="coding-test" />
       <extension name="coverage">
         <pattern>
@@ -86,8 +97,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main_1152" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="baekjoon.Main_1152" />
+    <configuration name="Main_2562" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="baekjoon.Main_2562" />
       <module name="coding-test" />
       <extension name="coverage">
         <pattern>
@@ -99,8 +110,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main_1157" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="baekjoon.Main_1157" />
+    <configuration name="Main_2577" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="baekjoon.Main_2577" />
       <module name="coding-test" />
       <extension name="coverage">
         <pattern>
@@ -112,8 +123,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main_1330" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="baekjoon.Main_1330" />
+    <configuration name="Main_2675" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="baekjoon.Main_2675" />
       <module name="coding-test" />
       <extension name="coverage">
         <pattern>
@@ -127,13 +138,20 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="애플리케이션.Main_1330" />
-        <item itemvalue="애플리케이션.Main_1157" />
-        <item itemvalue="애플리케이션.Main_1152" />
-        <item itemvalue="애플리케이션.Main_1008" />
-        <item itemvalue="애플리케이션.Main_1001" />
+        <item itemvalue="애플리케이션.Main_2675" />
+        <item itemvalue="애플리케이션.Main_2577" />
+        <item itemvalue="애플리케이션.Main_2562" />
+        <item itemvalue="애플리케이션.Main_2475" />
+        <item itemvalue="애플리케이션.Main_2439" />
       </list>
     </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="jdk-17.0.10-corretto-17.0.10-4caba194b151-53826d6a" />
+      </set>
+    </attachedChunks>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="애플리케이션 수준" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -143,7 +161,8 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1713226162735</updated>
-      <workItem from="1713226163988" duration="3086000" />
+      <workItem from="1713226163988" duration="4851000" />
+      <workItem from="1713311522061" duration="4483000" />
     </task>
     <servers />
   </component>
