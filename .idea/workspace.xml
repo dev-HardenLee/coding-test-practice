@@ -5,13 +5,19 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="87a4de62-995f-48f9-8a4a-80051963c272" name="변경" comment="">
-      <change afterPath="$PROJECT_DIR$/src/baekjoon/Main_2438.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/baekjoon/Main_2439.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/baekjoon/Main_2475.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/baekjoon/Main_2562.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/baekjoon/Main_2577.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/baekjoon/Main_2675.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/baekjoon/Main_10818.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/baekjoon/Main_10869.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/baekjoon/Main_10950.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/baekjoon/Main_10951.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/baekjoon/Main_10952.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/baekjoon/Main_11654.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/baekjoon/Main_11720.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/baekjoon/Main_25083.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/baekjoon/Main_2739.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/baekjoon/Main_2741.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/baekjoon/Main_2753.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/baekjoon/Main_27866.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/baekjoon/Main_2884.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -57,22 +63,35 @@
     "vue.rearranger.settings.migration": "true",
     "애플리케이션.Main.executor": "Run",
     "애플리케이션.Main_1008.executor": "Run",
+    "애플리케이션.Main_10818.executor": "Run",
+    "애플리케이션.Main_10869.executor": "Run",
+    "애플리케이션.Main_10950.executor": "Run",
+    "애플리케이션.Main_10951.executor": "Run",
+    "애플리케이션.Main_10952.executor": "Run",
     "애플리케이션.Main_1152.executor": "Run",
     "애플리케이션.Main_1157.executor": "Run",
+    "애플리케이션.Main_11654.executor": "Run",
+    "애플리케이션.Main_11720.executor": "Run",
     "애플리케이션.Main_1330.executor": "Run",
     "애플리케이션.Main_2438.executor": "Run",
     "애플리케이션.Main_2439.executor": "Run",
     "애플리케이션.Main_2475.executor": "Run",
+    "애플리케이션.Main_25083.executor": "Run",
     "애플리케이션.Main_2562.executor": "Run",
     "애플리케이션.Main_2577.executor": "Run",
     "애플리케이션.Main_2675.executor": "Run",
+    "애플리케이션.Main_2739.executor": "Run",
+    "애플리케이션.Main_2741.executor": "Run",
+    "애플리케이션.Main_2753.executor": "Run",
+    "애플리케이션.Main_27866.executor": "Run",
+    "애플리케이션.Main_2884.executor": "Run",
     "애플리케이션.baekjoon_1001.executor": "Run",
     "애플리케이션.baekjoon_1008.executor": "Run"
   }
 }]]></component>
-  <component name="RunManager" selected="애플리케이션.Main_2675">
-    <configuration name="Main_2439" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="baekjoon.Main_2439" />
+  <component name="RunManager" selected="애플리케이션.Main_27866">
+    <configuration name="Main_10951" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="baekjoon.Main_10951" />
       <module name="coding-test" />
       <extension name="coverage">
         <pattern>
@@ -84,8 +103,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main_2475" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="baekjoon.Main_2475" />
+    <configuration name="Main_10952" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="baekjoon.Main_10952" />
       <module name="coding-test" />
       <extension name="coverage">
         <pattern>
@@ -97,8 +116,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main_2562" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="baekjoon.Main_2562" />
+    <configuration name="Main_11654" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="baekjoon.Main_11654" />
       <module name="coding-test" />
       <extension name="coverage">
         <pattern>
@@ -110,8 +129,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main_2577" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="baekjoon.Main_2577" />
+    <configuration name="Main_25083" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="baekjoon.Main_25083" />
       <module name="coding-test" />
       <extension name="coverage">
         <pattern>
@@ -123,8 +142,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main_2675" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="baekjoon.Main_2675" />
+    <configuration name="Main_27866" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="baekjoon.Main_27866" />
       <module name="coding-test" />
       <extension name="coverage">
         <pattern>
@@ -138,11 +157,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="애플리케이션.Main_2675" />
-        <item itemvalue="애플리케이션.Main_2577" />
-        <item itemvalue="애플리케이션.Main_2562" />
-        <item itemvalue="애플리케이션.Main_2475" />
-        <item itemvalue="애플리케이션.Main_2439" />
+        <item itemvalue="애플리케이션.Main_27866" />
+        <item itemvalue="애플리케이션.Main_25083" />
+        <item itemvalue="애플리케이션.Main_11654" />
+        <item itemvalue="애플리케이션.Main_10952" />
+        <item itemvalue="애플리케이션.Main_10951" />
       </list>
     </recent_temporary>
   </component>
@@ -162,7 +181,8 @@
       <option name="presentableId" value="Default" />
       <updated>1713226162735</updated>
       <workItem from="1713226163988" duration="4851000" />
-      <workItem from="1713311522061" duration="4483000" />
+      <workItem from="1713311522061" duration="10273000" />
+      <workItem from="1713485704025" duration="4486000" />
     </task>
     <servers />
   </component>
