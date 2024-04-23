@@ -5,9 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="87a4de62-995f-48f9-8a4a-80051963c272" name="변경" comment="">
-      <change afterPath="$PROJECT_DIR$/src/baekjoon/Main_2920.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/baekjoon/Main_3052.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/baekjoon/Main_8958.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/baekjoon/Main_10250.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -53,6 +51,7 @@
     "vue.rearranger.settings.migration": "true",
     "애플리케이션.Main.executor": "Run",
     "애플리케이션.Main_1008.executor": "Run",
+    "애플리케이션.Main_10250.executor": "Run",
     "애플리케이션.Main_10818.executor": "Run",
     "애플리케이션.Main_10869.executor": "Run",
     "애플리케이션.Main_10950.executor": "Run",
@@ -82,9 +81,9 @@
     "애플리케이션.baekjoon_1008.executor": "Run"
   }
 }]]></component>
-  <component name="RunManager" selected="애플리케이션.Main_8958">
-    <configuration name="Main_25083" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="baekjoon.Main_25083" />
+  <component name="RunManager" selected="애플리케이션.Main_10250">
+    <configuration name="Main_10250" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="baekjoon.Main_10250" />
       <module name="coding-test" />
       <extension name="coverage">
         <pattern>
@@ -150,11 +149,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="애플리케이션.Main_10250" />
         <item itemvalue="애플리케이션.Main_8958" />
         <item itemvalue="애플리케이션.Main_3052" />
         <item itemvalue="애플리케이션.Main_2920" />
         <item itemvalue="애플리케이션.Main_27866" />
-        <item itemvalue="애플리케이션.Main_25083" />
       </list>
     </recent_temporary>
   </component>
@@ -176,6 +175,7 @@
       <workItem from="1713226163988" duration="4851000" />
       <workItem from="1713311522061" duration="10273000" />
       <workItem from="1713485704025" duration="15963000" />
+      <workItem from="1713743633941" duration="4440000" />
     </task>
     <servers />
   </component>
